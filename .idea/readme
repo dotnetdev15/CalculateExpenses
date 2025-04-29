@@ -1,0 +1,18 @@
+A command-line application designed to simplify personal finance management.
+It allows users to log expenses into a database by specifying the category, amount, and date. 
+Users can generate structured PDF reports summarizing all recorded expenses for easy reference. 
+The program also includes visual tools like bar graphs and pie charts.
+Additionally, it calculates total monthly expenses, allowing users to monitor financial habits over time.
+
+Prerequisites
+To run the program, ensure the following are installed:
+--->Python (version 3.7 or higher)
+--->Required Python Libraries:
+--->matplotlib
+--->pandas
+--->reportlab
+
+Clone or Download the Program:
+Link-->https://github.com/Nisha123-eng/CalculateExpenses
+Clone the repository or download the code files to your local system.
+
